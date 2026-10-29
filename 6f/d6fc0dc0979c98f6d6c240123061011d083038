@@ -1,0 +1,19 @@
+README.md
+  s_b798a5d826d8cc::t_e0dddcd4a6f71d 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6fd6fc0dc0979c98f6d6c240123061011d083038",
+  "prompts": {},
+  "sessions": {
+    "s_b798a5d826d8cc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab21e571-312d-4042-87cd-b84c1b773f9f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guillaume <guillaume.lefebvre@komeet.cc>"
+    }
+  }
+}
